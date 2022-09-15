@@ -1,0 +1,19 @@
+Algoritmo sin_titulo
+	Escribir "Dame un numero del 1 al 5"
+	Leer R1
+	Escribir "Dame un numero del 1 al 5"
+	Leer R2
+	aux=5
+	numero=10 
+	sandman=4
+	T1= aux-R1
+	T2= aux-R2
+	T3= numero-R1-R2
+	Escribir T3
+	Si T3=sandman Entonces
+		Escribir "Lo lograste"
+	Sino 
+		Escribir "No lo lograste" 
+		
+	FinSi
+FinAlgoritmo
